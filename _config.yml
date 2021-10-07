@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:starriniu@naver.com
+      #url: mailto:starriniu@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Seung-minnn"
@@ -122,7 +122,7 @@ footer:
   links:
    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:starriniu@naver.com
+      #url: mailto:starriniu@naver.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:                                        # 이런식으로 url을 주석처리하면 노출되지 않습니다.
