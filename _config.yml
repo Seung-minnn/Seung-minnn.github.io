@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Miniyaaa"
-  avatar           : "/image/profile/2021me.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "일상/취미/개발 블로그입니다 :D<br>소통 환영합니다~" # 줄바꿈은 <br>로 굵은 글씨는 **글씨** 로 표기해주세요. 
   location         : "Republic of Korea"
   email            :
